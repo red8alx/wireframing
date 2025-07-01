@@ -68,3 +68,8 @@ On a contact form wireframe:
 * Placeholders for "Name," "Email," and "Message" input fields are shown.
 * A "Send Message" button is clearly positioned.
 * Annotations might indicate: "Clicking 'Send Message' will submit the form and show a success message."
+
+## Types of Wireframes
+* **Low-Fidelity Wireframes:** Simple sketches or basic digital layouts focusing on overall structure and functionality without detailed design.
+* **High-Fidelity Wireframes:** More detailed and refined versions, often closer to the final design, including more specific layout and design elements.
+
