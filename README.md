@@ -31,9 +31,11 @@ Identifying and fixing structural or usability problems during the wireframing p
 Wireframes are comprised of several core elements that collectively define the blueprint of a digital interface. Understanding these elements is crucial for effective wireframing.
 
 **1. Layout and Structure:**
+
 This element defines the overarching framework and organization of the page or screen. It's about establishing the major regions and their relationships, such as headers, footers, main content areas, sidebars, and the underlying grid system. It sets the foundation upon which all other elements will reside.
 
 **Example Contribution to Overall Design:**
+
 Imagine a typical blog post page. The "Layout and Structure" element would define:
 * A fixed header at the top for the site logo and main navigation.
 * A central, wide column for the main article content.
