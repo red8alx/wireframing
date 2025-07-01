@@ -80,12 +80,12 @@ On a contact form wireframe:
 A variety of tools are available to assist designers in creating wireframes, ranging from simple pen-and-paper to sophisticated digital platforms. The choice of tool often depends on the project's complexity, team collaboration needs, and desired fidelity level.
 
 Some popular wireframing tools include:
-* Pen and Paper: The quickest and lowest-fidelity method for initial ideation and sketching.
-* Whiteboards: Great for collaborative brainstorming sessions and rapid sketching.
-*Balsamiq: Known for its low-fidelity, "sketchy" aesthetic, making it excellent for conceptual wireframing.
-* Axure RP: A powerful tool for creating highly interactive prototypes and detailed specifications, often used for high-fidelity wireframes and comprehensive UX design.
-* Adobe XD: A vector-based tool for designing and prototyping user experiences for web and mobile apps, supporting various fidelities.
-* Sketch: Popular among macOS users for UI design, supporting plugins that extend its wireframing capabilities.
+* **Pen and Paper:** The quickest and lowest-fidelity method for initial ideation and sketching.
+* **Whiteboards:** Great for collaborative brainstorming sessions and rapid sketching.
+* **Balsamiq:** Known for its low-fidelity, "sketchy" aesthetic, making it excellent for conceptual wireframing.
+* **Axure RP:** A powerful tool for creating highly interactive prototypes and detailed specifications, often used for high-fidelity wireframes and comprehensive UX design.
+* **Adobe XD:** A vector-based tool for designing and prototyping user experiences for web and mobile apps, supporting various fidelities.
+* **Sketch:** Popular among macOS users for UI design, supporting plugins that extend its wireframing capabilities.
 
 ### Recommended Tool: Figma
 Among the array of design tools, **Figma** has emerged as a leading choice for wireframing, prototyping, and full-fledged UI design, widely adopted by individuals and teams alike.
