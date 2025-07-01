@@ -70,6 +70,10 @@ On a contact form wireframe:
 * Annotations might indicate: "Clicking 'Send Message' will submit the form and show a success message."
 
 ## Types of Wireframes
-* **Low-Fidelity Wireframes:** Simple sketches or basic digital layouts focusing on overall structure and functionality without detailed design.
-* **High-Fidelity Wireframes:** More detailed and refined versions, often closer to the final design, including more specific layout and design elements.
+* **Low-Fidelity Wireframes:** Simple sketches or basic digital layouts focusing on overall structure and functionality without detailed design. Low-fidelity wireframes are primarily used in the early stages of the design process during like Brainstorming and Ideation, Conceptualization, Internal Team Discussions, Early Feedback Gathering, Testing User Flows (Wireflows).
+* **High-Fidelity Wireframes:** More detailed and refined versions, often closer to the final design, including more specific layout and design elements. High-fidelity wireframes are used in the later stages of the design process after the core structure and functionality have been validated with low-fidelity wireframes. They are typically used for:Refining Design Details, User Testing, Stakeholder Presentations and Approval, Developer Handoff, and Preparing for Visual Design/Prototyping.
+
+### Example of High-Fidelity wireframe:
+[High-fidelity wireframe.](https://www.figma.com/design/E2BRqdPcKkrnX6hLGPto8Z/Project-Airbnb?node-id=1-2&p=f&t=crXIY384Y4bHyGvq-0)
+
 
